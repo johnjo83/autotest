@@ -1,2 +1,0 @@
-# autotest
-sample description 
